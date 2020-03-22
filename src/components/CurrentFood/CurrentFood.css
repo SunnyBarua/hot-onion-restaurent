@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+  }
+.main-part{
+    width: 30%;
+    float: left;
+    width: 20.33%; 
+    margin-top: 5%;
+    margin-left: 150px;
+     
+}
+.food-item img{   
+    height: 200px;
+    width: 200px;
+}
